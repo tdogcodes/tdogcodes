@@ -8,4 +8,5 @@ Based in Hemet, California, I enjoy bringing a design to life on the frontend, a
 
 ## Currently Working on... 👷‍♀️
 - My discrete mathematics class
-- Making my websites more accessible
+- Expanding my fruit/veggie garden
+- A Next/Prisma dating site lol
