@@ -9,4 +9,4 @@ Based in Hemet, California, I enjoy bringing a idea to life online, and making i
 ## Currently Working on... 👷‍♀️
 - My discrete mathematics class
 - Caring for my fruit/veggie garden
-- An AI form builder using Next/Prisma
+- An AI/no-code form builder using Next/Prisma
