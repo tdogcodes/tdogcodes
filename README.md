@@ -4,7 +4,7 @@ I'm a web developer currently pursuing a computer science degree at Western Gove
 Based in Hemet, California, I enjoy bringing ideas to life online, and making them aesthetic and responsive. 🖥️
 
 ## My Stack 🛠️
-- React, Javascript, Typescript, CSS, HTML, Next, Zustand, React Router, Tailwind, Shadcn, Vitest, Git
+- React, Javascript, Typescript, CSS, HTML, Next, Zustand, React Router, Tailwind, Shadcn, Vitest, Git, PostgreSQL, Prisma
 
 ## Currently Working on... 🚧
 - Formly: An open source form building platform, that lets you build and share trackable forms using prompts 
