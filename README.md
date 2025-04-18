@@ -9,4 +9,4 @@ Based in Hemet, California, I enjoy bringing ideas to life online, and making th
 ## Currently Working on... 🚧
 - Formly: An AI open source form building platform, that lets you build forms using prebuilt components, and AI prompts. 
 - My discrete mathematics class
-- Caring for my fruit/veggie garden & starting a praying mantis ecosystem in my backyard
+- Caring for my fruit/veggie garden & getting CS2 elo back up
