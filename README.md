@@ -1,6 +1,6 @@
 # Hi, I'm Tracy ✌️
 
-I'm a web developer at GungHo Entertainment, currently pursuing a computer science degree at Western Governors University (WGU). 🦉 <br/>
+I'm a web developer at GungHo Entertainment, currently pursuing a computer science degree at Western Governors University.🦉 <br/>
 Based in Hemet, California, I enjoy bringing ideas to life online, and making them aesthetic and responsive. 🖥️
 
 ## My Stack 🛠️
