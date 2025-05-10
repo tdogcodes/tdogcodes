@@ -7,6 +7,6 @@ Based in Hemet, California, I enjoy bringing ideas to life online, and making th
 - React, Javascript, Typescript, CSS, HTML, Next, Zustand, Firebase, Tailwind, Shadcn, Vitest, Git, PostgreSQL, Prisma
 
 ## Currently Working on... 🚧
-- Formly: An AI open source form building platform, that lets you build forms using draggable blocks, and AI prompts. 
-- My discrete mathematics class
-- Caring for my fruit/veggie garden & getting CS2 elo back up
+- TdogAnime - A free anime/manga streaming service with new series and all the latest episodes
+- 4 different WGU classes, each one about Java 
+- Caring for my fruit/veggie garden
