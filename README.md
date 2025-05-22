@@ -8,6 +8,6 @@ Based in Hemet, California, I enjoy bringing ideas to life online, and learning 
 
 ## Currently Working on... 🚧
 - A kanban style project management app, with an admin dashboard, ticketing system,
-  and realtime analytics, made with Refine, Nest.js, and styled with Ant Design
+  and realtime analytics, made with React, GraphQL, and Refine
 - 4 different WGU classes, each one about Java 
 - Caring for my fruit/veggie garden
