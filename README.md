@@ -4,7 +4,7 @@ I'm a Web Developer at GungHo Entertainment, pursuing a Computer Science degree 
 Based in Hemet, California, I enjoy bringing ideas to life online, and learning new technologies along the way. 🖥️
 
 ## My Stack 🛠️
-- React, Typescript, Next, Zustand, Tailwind, Shadcn, Lucide, Git, Postgres, Prisma
+- React, Typescript, Next, Zustand, Tailwind, Shadcn, Lucide, Postgres, Prisma
 
 ## Currently Working on... 🚧
 - A kanban style project management app, with an admin dashboard, ticketing system,
