@@ -7,7 +7,6 @@ Based in Hemet, California, I enjoy bringing ideas to life online, and learning 
 - React, Typescript, Next, Zustand, Tailwind, Shadcn, Lucide, Postgres, Prisma
 
 ## Currently Working on... 🚧
-- A kanban style project management app, with an admin dashboard, ticketing system,
-  and realtime analytics, made with React, GraphQL, and Refine
-- 4 different WGU classes, each one about Java 
-- Caring for my fruit/veggie garden
+- A Web Scraping SaaS with Next.js, Typescript, Prisma, and SQLite
+- A WGU class on Java Springboot, building an API for an ecommerce site
+- Caring for my fruit/veggie garden, just got a blueberry bush
