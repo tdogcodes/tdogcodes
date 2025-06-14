@@ -4,7 +4,7 @@ I'm a Web Developer at GungHo Entertainment, pursuing a Computer Science degree 
 Based in Hemet, California, I enjoy bringing ideas to life online, and learning new technologies along the way. 🖥️
 
 ## Things I use the most 🛠️
-- React, Next, Java, SpringBoot, Typescript, CSS, Tailwind, SQL, Prisma, REST, Git
+- React, Next, Typescript, Zustand, CSS, Tailwind, Framer Motion, ShadCN, SQL, Prisma, REST, Git
 
 ## Currently Working on... 🚧
 - A Web Scraping SaaS with Next.js, Typescript, Prisma, and SQLite
