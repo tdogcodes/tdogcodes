@@ -8,5 +8,5 @@ Based in Hemet, California, I enjoy bringing ideas to life online, and learning 
 
 ## Currently Working on... 🚧
 - A Web Scraping SaaS with Next.js, Typescript, Prisma, and SQLite
-- A WGU class on Java Springboot, building an API for an ecommerce site
+- A WGU class on multi-threaded Java and Docker
 - Caring for my fruit/veggie garden, just got a blueberry bush
